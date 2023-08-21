@@ -105,10 +105,13 @@ form .text h3 a:hover{
 } 
   </style>
    </head>
+     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>  
+   
 <body>
   <div class="wrapper">
     <h2>Registration</h2>
-    <form action="Login" method="post">
+    
+    <form id="form1" action="Login" method="post">
       <div class="input-box">
         <input type="text" name="uname" placeholder="Enter your name" required>
       </div>
@@ -116,22 +119,45 @@ form .text h3 a:hover{
         <input type="text" name="email" placeholder="Enter your email" required>
       </div>
       <div class="input-box">
-        <input type="password" name="crpassword" placeholder="Create password" required>
+        <input type="password" id="crpassword" name="crpassword" placeholder="Create password" required>
       </div>
       <div class="input-box">
-        <input type="password" name="copassword" placeholder="Confirm password" required>
+        <input type="password" id="copassword" name="copassword" placeholder="Confirm password" required>
       </div>
       <div class="policy">
-        <input type="checkbox">
+        <input type="checkbox" required>
         <h3>I accept all terms & condition</h3>
       </div>
       <div class="input-box button">
-        <input type="Submit" value="Register Now">
+        <input type="button" value="Register Now" onclick="verify()">
       </div>
       <div class="text">
         <h3>Already have an account? <a href="#">Login now</a></h3>
       </div>
-    </form>
+     </form>
   </div>
 </body>
 </html>
+
+<script>
+function verify()
+{
+	  var pw1 = document.getElementById("crpassword").value;  
+	  var pw2 = document.getElementById("copassword").value;  
+	  if(pw1 != pw2) 
+	  {  
+		swal("Password did not match");  
+	  }
+	  else 
+	  {  
+		  swal("Registration Sucessful");
+		  setTimeout(formsubmit, 3000);
+	  }  
+}
+function formsubmit()
+{
+	var form = document.getElementById("form1");
+	form.submit();
+	form.reset();
+}
+</script>

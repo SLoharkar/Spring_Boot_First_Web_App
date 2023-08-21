@@ -3,31 +3,26 @@ package com.example.demo;
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 public class RegistrationController {
 	
+	        
 	@RequestMapping("/")
 	public String register()
 	{
+		//return "form1";
 		return "Registration_Form";
 	}
-
+	
 //Register Form Details 
+
 	@RequestMapping("/Login")
 	public ModelAndView userInfo(UserRegistration reg)
 	{
-		ModelMap model = new ModelMap();
-		model.addAttribute("user_name", reg.getUname());
-		model.addAttribute("user_email", reg.getEmail());
-		model.addAttribute("cr_password", reg.getCrpassword());
-		model.addAttribute("co_password", reg.getCopassword());
-		
-		ModelAndView mv = new ModelAndView("Login_Form");
-		
+		ModelAndView mv = new ModelAndView("Login_Form");	
 		return mv;
 	}
 //Verification
@@ -40,14 +35,22 @@ public class RegistrationController {
 		String cpassword=request.getParameter("password");
 	
 	
-		int result=reg.Display(cemail, cpassword);
+		int result=reg.cr_verify(cemail, cpassword);
 		
-		if(result==1)
+		if(result == 1)
 		{
-			mv = new ModelAndView("Registration_Form");
+			String msg="Login Sucessful";  
+            mv.addObject("message", msg);  
+            mv.setViewName("view");  
+		}
+		else if(result == 0)
+		{
+            String msg="Sorry You entered an incorrect email or password";  
+            mv.addObject("message", msg);  
+            mv.setViewName("error"); 
 		}
 			return mv;
-
+			
 	}
 	
 	

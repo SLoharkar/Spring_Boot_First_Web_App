@@ -6,7 +6,7 @@ public class UserRegistration {
 	private String crpassword;
 	private static String copassword;
 	
-	public int Display(String mail, String pass) {
+	public int cr_verify(String mail, String pass) {
 		int result=0;
 		if(mail.equals(email) && pass.equals(copassword))
 		{
