@@ -21,15 +21,16 @@ https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/3d2e91af-
 
 
 ## Website Highlights
-![Step 1](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/05bc6941-bd87-4e68-9370-7cabf303717f)
 
-![Step 2](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/cec0bb84-f46c-455c-8264-45ac1f7cef0a)
+<img src="https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/05bc6941-bd87-4e68-9370-7cabf303717f">
+  
+<img src="https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/cec0bb84-f46c-455c-8264-45ac1f7cef0a">
 
-![Step 3](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/12a47977-0bb2-4c11-aafa-45bfea36f42c)
+<img src="https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/12a47977-0bb2-4c11-aafa-45bfea36f42c">
 
-![Step 4](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/938c9e49-565d-44fd-abac-87e0cbf2047b)
+<img src="https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/938c9e49-565d-44fd-abac-87e0cbf2047b">
 
-![Step 5](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/cb0f42f2-69c8-42aa-811d-e946d5a6c54e)
+<img src="https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/cb0f42f2-69c8-42aa-811d-e946d5a6c54e">
 
 ![Step 6](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/574b56bf-3486-4cff-9ac9-385df147b116)
 
