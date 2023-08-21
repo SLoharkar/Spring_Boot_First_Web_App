@@ -21,26 +21,30 @@ https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/3d2e91af-
 
 
 ## Website Highlights
+<p align="left" width="100%">
 
-<img src="https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/05bc6941-bd87-4e68-9370-7cabf303717f">
   
-<img src="https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/cec0bb84-f46c-455c-8264-45ac1f7cef0a">
+<img width="33%" src="Screenshots/Step 1.png">
+  
+<img width="33%" src="Screenshots/Step 2.png">
 
-<img src="https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/12a47977-0bb2-4c11-aafa-45bfea36f42c">
+<img width="33%" src="Screenshots/Step 3.png">
 
-<img src="https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/938c9e49-565d-44fd-abac-87e0cbf2047b">
+<img width="33%" src="Screenshots/Step 4.png">
 
-<img src="https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/cb0f42f2-69c8-42aa-811d-e946d5a6c54e">
+<img width="33%" src="Screenshots/Step 5.png">
 
-![Step 6](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/574b56bf-3486-4cff-9ac9-385df147b116)
+<img width="33%" src="Screenshots/Step 7.png">
 
-![Step 7](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/efd1955c-1473-4f83-864d-923b637c1db9)
+<img src="Screenshots/Step 6.png">
 
-![Step 8](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/ba5ecf63-8ea7-460c-8a2b-3c1546e164b8)
+<img width="33%" src="Screenshots/Step 8.png">
 
-![Step 9](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/17ab0a86-c55e-4f9c-8b8d-2c2a36d781a1)
+<img width="33%" src="Screenshots/Step 9.png">
 
-![Step 10](https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/ae7649c0-de55-4a5e-b40b-add400f5ea63)
+<img width="33%" src="Screenshots/Step 10.png">
+
+</p>
 
 
 ## Dependencies
