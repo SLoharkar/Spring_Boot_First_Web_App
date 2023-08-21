@@ -24,25 +24,25 @@ https://github.com/SLoharkar/Spring_Boot_First_Web_App/assets/68845746/3d2e91af-
 <p align="left" width="100%">
 
   
-<img width="33%" src="Screenshots/Step 1.png">
+<img width="32%" src="Screenshots/Step 1.png">
   
-<img width="33%" src="Screenshots/Step 2.png">
+<img width="32%" src="Screenshots/Step 2.png">
 
-<img width="33%" src="Screenshots/Step 3.png">
+<img width="32%" src="Screenshots/Step 3.png">
 
-<img width="33%" src="Screenshots/Step 4.png">
+<img width="32%" src="Screenshots/Step 4.png">
 
-<img width="33%" src="Screenshots/Step 5.png">
+<img width="32%" src="Screenshots/Step 5.png">
 
-<img width="33%" src="Screenshots/Step 7.png">
+<img width="32%" src="Screenshots/Step 6.png">
 
-<img src="Screenshots/Step 6.png">
+<img width="32%" src="Screenshots/Step 7.png">
 
-<img width="33%" src="Screenshots/Step 8.png">
+<img width="32%" src="Screenshots/Step 8.png">
 
-<img width="33%" src="Screenshots/Step 9.png">
+<img width="32%" src="Screenshots/Step 9.png">
 
-<img width="33%" src="Screenshots/Step 10.png">
+<img width="32%" src="Screenshots/Step 10.png">
 
 </p>
 
