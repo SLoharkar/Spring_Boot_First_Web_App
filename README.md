@@ -1,4 +1,4 @@
-# Spring_Boot_First_Web_App
+# Spring Boot First Web App
 Spring Boot First Web Application
 
 ## Features
